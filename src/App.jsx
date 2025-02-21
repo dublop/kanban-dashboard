@@ -110,6 +110,8 @@ function App() {
           onDrop={drop}
           handleDragStart={handleDragStart}
           handleDragEnd={handleDragEnd}
+          deleteTask={deleteTask}
+          handleOpenModal={handleOpenModal}
         />
         <Task
           title="Done"
@@ -117,6 +119,8 @@ function App() {
           onDrop={drop}
           handleDragStart={handleDragStart}
           handleDragEnd={handleDragEnd}
+          deleteTask={deleteTask}
+          handleOpenModal={handleOpenModal}
         />
       </div>
     </div>
