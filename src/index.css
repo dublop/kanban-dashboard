@@ -161,9 +161,6 @@ header button:hover {
   .kanban-container {
     flex-direction: column;
   }
-  .kanban-item {
-    width: 80%;
-  }
   header {
     flex-direction: column;
     gap: 10px;
