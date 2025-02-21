@@ -1,0 +1,44 @@
+{
+    "todos": [
+      {
+        "todo": "Learn how to use a french press",
+        "stage": "to do"
+      },
+      {
+        "todo": "Visit a historical site",
+        "stage": "to do"
+      },
+      {
+        "todo": "Host a DIY spa day",
+        "stage": "done"
+      },
+      {
+        "todo": "Take a class at local community center that interests you",
+        "stage": "done"
+      },
+      {
+        "todo": "Clean out car",
+        "stage": "to do"
+      },
+      {
+        "todo": "Go stargazing",
+        "stage": "done"
+      },
+      {
+        "todo": "Catch up on world news",
+        "stage": "working"
+      },
+      {
+        "todo": "Create a meal plan for the coming week",
+        "stage": "done"
+      },
+      {
+        "todo": "Learn Morse code",
+        "stage": "working"
+      },
+      {
+        "todo": "Explore a nearby waterfall",
+        "stage": "done"
+      }
+    ]
+  }
